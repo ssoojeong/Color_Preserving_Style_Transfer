@@ -1,0 +1,4 @@
+# Visualization and utilities
+matplotlib
+opencv-python
+tqdm
